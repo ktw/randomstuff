@@ -1,0 +1,13 @@
+# MS Ad Domains (Solitaire)
+0.0.0.0 view.adjust.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 events.ads.vungle.com
+0.0.0.0 tpat.api.vungle.com
+0.0.0.0 report.ads.vungle.com
+0.0.0.0 userpresence.xboxlive.com
+0.0.0.0 oneocsp.microsoft.com
+0.0.0.0 download-ssl.msgamestudios.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 ams3-ib.adnxs.com
+0.0.0.0 zem.outbrainimg.com 
+0.0.0.0 b1t-eudc1.zemanta.com
